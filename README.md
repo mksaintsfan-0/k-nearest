@@ -1,2 +1,2 @@
 # k-nearest
-kin project DSCI 302 spring 2021
+knn project DSCI 302 spring 2021
